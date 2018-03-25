@@ -12,7 +12,8 @@ object Project : Project({
     id = "JavaScript"
     parentId = "_Root"
     name = "JavaScript"
-
+    description = "My JS Project by Kirk"
+    
     vcsRoot(JavaScript_HttpsGithubComG0t4teamcityCourseCards)
 
     buildType(JavaScript_03DeployToStaging)
